@@ -1,0 +1,15 @@
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+B:\Mscrr\GitHub\RPA-CSharp.NET\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll
